@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>1760d4b5573546d089da27e5bb3220a7-8.png</filename>
+	<path>C:\Users\i.nuradin\Desktop\labelImg-1.8.1\labelImg-1.8.1\data\1760d4b5573546d089da27e5bb3220a7-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1584</width>
+		<height>1224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>255</ymin>
+			<xmax>1462</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

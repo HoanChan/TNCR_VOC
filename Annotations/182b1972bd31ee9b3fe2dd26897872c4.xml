@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plmc</folder>
+	<filename>182b1972bd31ee9b3fe2dd26897872c4.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\plmc\182b1972bd31ee9b3fe2dd26897872c4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>908</width>
+		<height>1361</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>404</ymin>
+			<xmax>803</xmax>
+			<ymax>1233</ymax>
+		</bndbox>
+	</object>
+</annotation>

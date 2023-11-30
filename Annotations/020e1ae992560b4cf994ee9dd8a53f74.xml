@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full_lined_300</folder>
+	<filename>020e1ae992560b4cf994ee9dd8a53f74.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\full_lined_300\020e1ae992560b4cf994ee9dd8a53f74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1190</width>
+		<height>1682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>full_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>360</ymin>
+			<xmax>650</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

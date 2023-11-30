@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>db067e772a2557ac58336671b8354a71.jpg</filename>
+	<path>C:\Users\i.nuradin\Desktop\data\db067e772a2557ac58336671b8354a71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>1684</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>full_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>669</ymin>
+			<xmax>1039</xmax>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+</annotation>

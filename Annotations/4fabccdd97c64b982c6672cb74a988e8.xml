@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial_lined_1</folder>
+	<filename>4fabccdd97c64b982c6672cb74a988e8.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\partial_lined_1\4fabccdd97c64b982c6672cb74a988e8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1584</width>
+		<height>1224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined_merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>200</ymin>
+			<xmax>1530</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

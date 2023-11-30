@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full_lined_300more</folder>
+	<filename>2c3a192c821e3a0ce6a708d0198c7a6a.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\full_lined_300more\2c3a192c821e3a0ce6a708d0198c7a6a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1584</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined_merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>691</ymin>
+			<xmax>1035</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>

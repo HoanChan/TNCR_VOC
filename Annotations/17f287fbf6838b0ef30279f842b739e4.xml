@@ -1,0 +1,26 @@
+<annotation>
+    <folder />
+    <filename>17f287fbf6838b0ef30279f842b739e4.jpg</filename>
+    <path>17f287fbf6838b0ef30279f842b739e4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>partial_lined</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>172</ymin>
+            <xmax>1468</xmax>
+            <ymax>550</ymax>
+        </bndbox>
+    </object>
+</annotation>

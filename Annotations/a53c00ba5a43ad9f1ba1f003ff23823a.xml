@@ -1,0 +1,26 @@
+<annotation>
+	<folder>merged_cells_2_300_0</folder>
+	<filename>a53c00ba5a43ad9f1ba1f003ff23823a.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\merged_cells_2_300_0\a53c00ba5a43ad9f1ba1f003ff23823a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>1684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>139</ymin>
+			<xmax>1062</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>d7a7675e6ef576c704984ffa2578c84f.jpg</filename>
+	<path>C:\Users\i.nuradin\Desktop\data\d7a7675e6ef576c704984ffa2578c84f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>1684</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>186</ymin>
+			<xmax>1052</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

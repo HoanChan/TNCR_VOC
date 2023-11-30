@@ -1,0 +1,26 @@
+<annotation>
+    <folder />
+    <filename>d183f924e5580951518b0a77acd7f5f5.jpg</filename>
+    <path>d183f924e5580951518b0a77acd7f5f5.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>merged_cells</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>115</xmin>
+            <ymin>70</ymin>
+            <xmax>1103</xmax>
+            <ymax>256</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial_lined_1</folder>
+	<filename>6f1671f38c19a045e1241837b6264531.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\partial_lined_1\6f1671f38c19a045e1241837b6264531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>1684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>264</ymin>
+			<xmax>1080</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

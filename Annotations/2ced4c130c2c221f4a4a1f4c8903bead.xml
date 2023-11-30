@@ -1,0 +1,26 @@
+<annotation>
+	<folder>verified</folder>
+	<filename>2ced4c130c2c221f4a4a1f4c8903bead.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_2021\verified\2ced4c130c2c221f4a4a1f4c8903bead.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1685</width>
+		<height>1191</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>143</ymin>
+			<xmax>1486</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>

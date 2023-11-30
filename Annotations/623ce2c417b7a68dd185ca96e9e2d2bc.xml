@@ -1,0 +1,26 @@
+<annotation>
+    <folder />
+    <filename>623ce2c417b7a68dd185ca96e9e2d2bc.jpg</filename>
+    <path>623ce2c417b7a68dd185ca96e9e2d2bc.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>full_lined</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>129</xmin>
+            <ymin>114</ymin>
+            <xmax>1552</xmax>
+            <ymax>1024</ymax>
+        </bndbox>
+    </object>
+</annotation>

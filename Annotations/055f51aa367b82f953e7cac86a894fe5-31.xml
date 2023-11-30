@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_nolines_predicted</folder>
+	<filename>055f51aa367b82f953e7cac86a894fe5-31.png</filename>
+	<path>C:\Users\d.nurseitov.NORLIST\Desktop\Dataset tables\data_nolines_predicted\055f51aa367b82f953e7cac86a894fe5-31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1220</width>
+		<height>1580</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined_merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>243</ymin>
+			<xmax>1084</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>partial_lined_merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>617</ymin>
+			<xmax>1081</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_full_lined_others_02</folder>
+	<filename>c32330115824103bf7db2e5bc862c29f.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\new_full_lined_others_DN\new_full_lined_others_02\c32330115824103bf7db2e5bc862c29f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>full_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>1387</ymin>
+			<xmax>1072</xmax>
+			<ymax>1456</ymax>
+		</bndbox>
+	</object>
+</annotation>

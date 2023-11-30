@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#1086;&#1089;&#1090;&#1072;&#1074;&#1096;&#1080;&#1077;&#1089;&#1103;</folder>
+	<filename>79a448d2fe7a5bfcf1af806367223a15.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_2021\&#1086;&#1089;&#1090;&#1072;&#1074;&#1096;&#1080;&#1077;&#1089;&#1103;\79a448d2fe7a5bfcf1af806367223a15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>838</width>
+		<height>1190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nolines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>312</ymin>
+			<xmax>467</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

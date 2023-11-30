@@ -1,0 +1,26 @@
+<annotation>
+	<folder>verified</folder>
+	<filename>3a98c4fd4a1f48570d85ea332a756f3c.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_2021\verified\3a98c4fd4a1f48570d85ea332a756f3c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1192</width>
+		<height>1684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>107</ymin>
+			<xmax>1109</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

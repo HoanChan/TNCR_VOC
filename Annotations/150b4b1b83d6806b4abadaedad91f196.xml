@@ -1,0 +1,50 @@
+<annotation>
+    <folder />
+    <filename>150b4b1b83d6806b4abadaedad91f196.jpg</filename>
+    <path>150b4b1b83d6806b4abadaedad91f196.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>full_lined</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>333</ymin>
+            <xmax>1089</xmax>
+            <ymax>622</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>full_lined</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>173</xmin>
+            <ymin>1291</ymin>
+            <xmax>1056</xmax>
+            <ymax>1396</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>full_lined</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>933</ymin>
+            <xmax>1094</xmax>
+            <ymax>1068</ymax>
+        </bndbox>
+    </object>
+</annotation>

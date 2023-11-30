@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nolines_4</folder>
+	<filename>1086e7b1b7f3fdd895d8f4fc9166e4a3-19.png</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_need_verify\nolines_4\1086e7b1b7f3fdd895d8f4fc9166e4a3-19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nolines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>639</ymin>
+			<xmax>1041</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

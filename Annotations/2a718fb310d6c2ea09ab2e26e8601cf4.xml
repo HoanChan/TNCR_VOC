@@ -1,0 +1,26 @@
+<annotation>
+    <folder />
+    <filename>2a718fb310d6c2ea09ab2e26e8601cf4.jpg</filename>
+    <path>2a718fb310d6c2ea09ab2e26e8601cf4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>partial_lined_merged_cells</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>122</xmin>
+            <ymin>168</ymin>
+            <xmax>1073</xmax>
+            <ymax>1226</ymax>
+        </bndbox>
+    </object>
+</annotation>

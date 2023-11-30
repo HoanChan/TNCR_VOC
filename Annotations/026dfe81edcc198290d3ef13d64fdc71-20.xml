@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>026dfe81edcc198290d3ef13d64fdc71-20.png</filename>
+	<path>C:\Users\i.nuradin\Desktop\windows_v1.8.0\windows_v1.8.0\data\026dfe81edcc198290d3ef13d64fdc71-20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1222</width>
+		<height>1576</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>283</ymin>
+			<xmax>1045</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

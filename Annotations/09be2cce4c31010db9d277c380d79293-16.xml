@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_nolines</folder>
+	<filename>09be2cce4c31010db9d277c380d79293-16.png</filename>
+	<path>C:\Users\d.nurseitov.NORLIST\Desktop\Dataset tables\data_nolines\09be2cce4c31010db9d277c380d79293-16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nolines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>409</ymin>
+			<xmax>938</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nolines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>1285</ymin>
+			<xmax>777</xmax>
+			<ymax>1477</ymax>
+		</bndbox>
+	</object>
+</annotation>

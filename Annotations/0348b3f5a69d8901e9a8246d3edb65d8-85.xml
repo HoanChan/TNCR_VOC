@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_nolines_predicted</folder>
+	<filename>0348b3f5a69d8901e9a8246d3edb65d8-85.png</filename>
+	<path>C:\Users\d.nurseitov.NORLIST\Desktop\Dataset tables\data_nolines_predicted\0348b3f5a69d8901e9a8246d3edb65d8-85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>288</ymin>
+			<xmax>914</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>partial_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>806</ymin>
+			<xmax>910</xmax>
+			<ymax>1239</ymax>
+		</bndbox>
+	</object>
+</annotation>

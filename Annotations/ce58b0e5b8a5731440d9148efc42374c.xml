@@ -1,0 +1,26 @@
+<annotation>
+	<folder>verified</folder>
+	<filename>ce58b0e5b8a5731440d9148efc42374c.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_2021\verified\ce58b0e5b8a5731440d9148efc42374c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>1191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>full_lined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>182</ymin>
+			<xmax>788</xmax>
+			<ymax>1124</ymax>
+		</bndbox>
+	</object>
+</annotation>

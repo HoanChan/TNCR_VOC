@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>1b8b5e17a70197bd6357c05c93d1477a-94.png</filename>
+	<path>C:\Users\i.nuradin\Desktop\windows_v1.8.0\windows_v1.8.0\data\1b8b5e17a70197bd6357c05c93d1477a-94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1165</width>
+		<height>1479</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial_lined_merged_cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>773</ymin>
+			<xmax>1044</xmax>
+			<ymax>1276</ymax>
+		</bndbox>
+	</object>
+</annotation>

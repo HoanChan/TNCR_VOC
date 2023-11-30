@@ -1,0 +1,26 @@
+<annotation>
+    <folder />
+    <filename>3e1ef03bc840d15227ca6f20da2a21ea.jpg</filename>
+    <path>3e1ef03bc840d15227ca6f20da2a21ea.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented />
+    <object>
+        <name>nolines</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>82</xmin>
+            <ymin>123</ymin>
+            <xmax>1364</xmax>
+            <ymax>1049</ymax>
+        </bndbox>
+    </object>
+</annotation>
